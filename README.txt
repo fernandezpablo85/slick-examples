@@ -27,3 +27,5 @@ of all available examples:
 
 * CallNativeDBFunction: Shows how to use a database function which is not
   provided by the SLICK driver in the Query Language.
+
+* ConnectionPool: Example of how to use Slick with a database connection pool
